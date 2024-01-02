@@ -2,9 +2,12 @@
 
 [![License: CERN-OHL-S](https://img.shields.io/badge/Hardware%20License-CERN--OHL--S%20v2-blueviolet)](https://ohwr.org/cern_ohl_s_v2.pdf)
 
-+ `RSCv4_assembly v68.step` contains all CAD files and print-ready .3mf files  
-+ `RSCv4_assembly v68.f3z` contains all CAD files and print-ready .3mf files
-
++ `RSCv4_assembly v68.step` contains part assembly step files  
++ `RSCv4_assembly v68.f3z` contains part assembly with editable design features for use in Fusion360
++ `RSCv4_speaker_shroud.3mf` contains print-ready .3mf part models of the speaker shroud assembly
++ `RSCv4_front_back.3mf` contains print-ready .3mf part models of the front and rear panels
++ `RSCv4_base_lid_flipper.3mf` contains print-ready .3mf part models of the base, lid and flippers 
+  
 The RSC prototype is constructed using off-the-shelf components and features a portable, friendly hourglass shape design, standing at 11cm tall and weighing ~374g. 
 
 To provide a comprehensive user experience, the RSC enables interaction through various modalities such as voice, gesture, tactile inputs, and incorporates visual, auditory, and motion indicators for enhanced expressiveness. 
