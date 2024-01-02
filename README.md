@@ -1,5 +1,9 @@
-`MechDesign` contains all CAD files and print-ready .stl files  
+### MechDesign contains all CAD files and print-ready .3mf files  
+
 [![License: CERN-OHL-S](https://img.shields.io/badge/Hardware%20License-CERN--OHL--S%20v2-blueviolet)](https://ohwr.org/cern_ohl_s_v2.pdf)
+
++ `RSCv4_assembly v68.step` contains all CAD files and print-ready .3mf files  
++ `RSCv4_assembly v68.f3z` contains all CAD files and print-ready .3mf files
 
 The RSC prototype is constructed using off-the-shelf components and features a portable, friendly hourglass shape design, standing at 11cm tall and weighing ~374g. 
 
