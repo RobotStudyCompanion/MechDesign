@@ -14,8 +14,8 @@ To provide a comprehensive user experience, the RSC enables interaction through 
 It strikes a balance between cost and technical performance, making it affordable for educational institutions and students. 
 With its sleek design and friendly appearance, the RSC can serve as an inviting and approachable study companion, offering academic support to students on their learning journey.
 
-![RSC_v4](./RSC_v4_prototype.PNG)
-
+![RSC_v4](media/RSC_v4_prototype.PNG)  
+  
 ### Hardware 
 * RaspberryPi 4 Model B 4GB RAM + 32 GB SD Card
 * AIY Voice Bonnet version2 (microphone + speaker + LED Button)
@@ -23,3 +23,5 @@ With its sleek design and friendly appearance, the RSC can serve as an inviting 
 * SG90 Servo Motors (Qty: 2)
 *  Nextion Enhanced NX3224T024 - Generic 2.4'' HMI 320*240 Touch Display
 *  Logic Level Shifter 4-Channel, Bidirectional
+
+![](media/rsc_v4_v65.avi)
