@@ -24,4 +24,3 @@ With its sleek design and friendly appearance, the RSC can serve as an inviting 
 *  Nextion Enhanced NX3224T024 - Generic 2.4'' HMI 320*240 Touch Display
 *  Logic Level Shifter 4-Channel, Bidirectional
 
-![](media/rsc_v4_v65.avi)
