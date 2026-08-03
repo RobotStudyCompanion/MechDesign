@@ -21,9 +21,9 @@ With its sleek design and friendly appearance, the RSC can serve as an inviting 
 ![RSC_v4](media/RSC_v4_prototype.PNG)  
   
 ### Hardware 
-* RaspberryPi 4 Model B 4GB RAM + 32 GB SD Card
+* RaspberryPi 4 Model B 8GB RAM + 64 GB SD Card
 * AIY Voice Bonnet version2 (microphone + speaker + LED Button)
-* Neopixel Ring 16 x 5050 RGB LED
+* Neopixel Ring 16 x 5050 RGBW LED
 * SG90 Servo Motors (Qty: 2)
 *  Nextion Enhanced NX3224T024 - Generic 2.4'' HMI 320*240 Touch Display
 *  Logic Level Shifter 4-Channel, Bidirectional
